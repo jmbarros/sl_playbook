@@ -1,0 +1,9 @@
+####created by jmbarros at tech4it dot com dot br                     ##### 
+####free to distributing, just give me some credits, okay ? :)  
+#### This script comes with ABSOLUTELY NO WARRANTY !!!                 #####
+###########################################################################
+### to be created at /etc/httpd/conf/allowed_ips
+#### whitelist of ips don't forget the (space)(minus) after IP
+10.0.0.100 - 
+10.0.0.101 - 
+10.0.0.102 - 
